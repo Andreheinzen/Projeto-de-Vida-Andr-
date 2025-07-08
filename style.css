@@ -3,6 +3,11 @@ h1, h2 {
 }
 
 
+h1, h2 {
+    font-family: 'Cinzel', serif;
+}
+
+
 
 @import url('https://fonts.googleapis.com/css2?family=Audiowide&display=swap');
 
